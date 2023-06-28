@@ -10,3 +10,6 @@ C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\
 C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\refint\CleanArchMvc.Application.dll
 C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.pdb
 C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\ref\CleanArchMvc.Application.dll
+C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\RafaelModesto\Documents\Projetos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.CopyComplete
