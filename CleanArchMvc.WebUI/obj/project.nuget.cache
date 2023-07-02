@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xyABewHpij+qCUrSBFwtRqVlioxkEA2xxVAn0oPzk8MBEnOnzVcfOBIacfS8+qWS6ElAk6sZIelPl4XvVJctg==",
+  "dgSpecHash": "fVIxVwmT00XtNARVT9WcPn5gEUIZA03ox77150T/WLoWKa5JyATUV6PPmUh+II9SWaGcvULi6PFfJDcqikTMaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\rafael.modesto\\Documents\\Projects\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

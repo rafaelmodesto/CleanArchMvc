@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DfSYS79rLxf2uGQzAtIT676QSsHd9SxjO98ApERvRVSOVGXKKE6YQ0aq+iXS9Zh7VMWPDJoKAJIPOtTmaiqbjg==",
+  "dgSpecHash": "rWeHSSCN8oImIuGjPDoPAZHPmOT5Dg08EPGBivTnoTP+UpL04nwgVbwOOhIDjQQ/OBfJuQ65H/p/M+/nRnDkNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\rafael.modesto\\Documents\\Projects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
