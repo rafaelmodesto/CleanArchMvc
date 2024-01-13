@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "mvePAV+6kMV27T9vVr/sRDV9kIpC2Z6m5DeO0dvipCJXU3FB9t/UPm0UN4amwlqs7dFa/OV4SSGwvPpAFE2Jog==",
+  "dgSpecHash": "P9jtXajGkGHe1B1Ym37NNn5/OMpXOu9ArVACvL3+jhRli2x2nfz7/VV1z3kDl9APOvgZw2qWwsHS+p1BjlmFQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RafaelModesto\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\RafaelModesto\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
