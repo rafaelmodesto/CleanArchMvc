@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\rafaelmodesto\\documents\\projetos\\cleanarchmvc\\cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\rafaelmodesto\\documents\\projetos\\cleanarchmvc\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\rafaelmodesto\\documents\\projetos\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FC49B-C281-4D80-96ED-ABE160D518E3}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:04:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:00:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\RafaelModesto\\Documents\\Projetos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:41:51.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
